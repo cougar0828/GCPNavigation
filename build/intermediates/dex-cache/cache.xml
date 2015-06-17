@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0-3a7411e8ddf1fce607c82e6b23224e393073ae39.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-6aa2c3bedae7941c098c68b1f7382285444b5acf.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-0d0a26708c2525a7811b90984c0272900a0cf4a3.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0-289d5a2a45799b9f9b875ce9ae74681f31dc2744.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-32317441457065de45cd1da3b55546fb442e26f1.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-4d16805b0f7f4ba5aa60ccfad68b59ceac32a24d.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-3efd0d2bde6a1b428130e9e4bdfb7ddd84b3ab6b.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-4ae76011f3bc794b5983a6bee55be78af5158496.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-7bafa249ab76d002e2b263f0ae9dd7f4ed9d9ec1.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-369915c2fdf8a78a59a9eeff6ea06c9e878cd57e.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-2963d826663ff8cb205f28b71de7b6da603d9c1f.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9-8651f0b20523d0bc1ce7c5be17a98921f9337611.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-e70157a1551229b757d8d3d9c2577016c3e5d34d.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-da88825ca8bc8c6373f7168257dfcfdd9aae3d34.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-a466fdd5fae66f03e5c0e9227470f74b0341ee98.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0-23584c01ed1d626401561d4b604dfc6722e2b743.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3-bb3321cbfd7d261a1a9cd9b773bffd28b76c4a32.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0-aab918f072854f18686c5f3543f514ab2c7a2964.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-0e9b6d83acc279cc11ab29e47d76050a39725013.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.20.0-cdf2db472a6c3a6ea74858d9e29dc6301e7e1f53.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-a0da63d028de6f6009e547a25b42d0c2bbe1ba0a.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-18857df2393ba95fe0ba17ef76263a6a8d0b57fd.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-859d9f8fca462debe528e7c1f493c5600faebeeb.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-dd7938eb93df8636e8463d5fcb9bfc665fc98e00.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-4e96bd9df0f9bc5243c855298193f49f43c7f357.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-eba832787c8b89bbcf3fb000e2b918dfc37740ca.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-cd62ddb9d7c6a0e3271067a393be0b06b43d0c84.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.20.0-9080f3bdb111fb4d4a7f018f230d4beb79a6e09f.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-9caff0e40fbd8662a4e583f6d66c1a0d5c6974bc.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-c10a9a8cba9fdafe353faf051bcac0222498d272.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-2b05dc611ee601a318be35e2a36c5671fcbc3d1c.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-0eac9705b1e923459294987bdab122a9308c8c1d.jar" />
+    </item>
+    <item
+        jar="/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-bb460cd1147b2b176376e0b853dbdc5fd2cd3ddf.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-ad08a6c29f06c1ba653f3c5fe5d290e680228d6b.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/classes-2a0e0498302635840b171bf17263ad0ba745a02b.jar" />
+    </item>
+    <item
+        jar="/Users/cougar0828/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/cougar0828/Documents/androidstudiospace/GCPNavigation/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0-d94604f6474ccee4185c47152da89d311febdab8.jar" />
+    </item>
+
+</items>
